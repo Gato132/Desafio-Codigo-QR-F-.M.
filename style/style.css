@@ -9,7 +9,7 @@ main {
 }
 section {
     background-color: hsl(0, 0%, 100%);
-    width: 18rem;
+    width: 19rem;
     margin: 0 auto;
     padding: 0.8rem;
     border-radius: 1.6rem;
@@ -19,7 +19,7 @@ img {
     max-width: 100%;
     border-radius: 1rem;
 }
-#tex {
+.tex {
     padding: 0 1.3rem;
     margin-top: 0.7rem;
 }
